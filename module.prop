@@ -1,0 +1,6 @@
+id=NotoSansMyanmarZawDecode
+name=NotoSans ZawDecode
+version=v1.0
+versionCode=1
+author=kaiz16
+description=A module that replaces your Unicode (or Zawgyi) with ZawDecode from Android 10.
